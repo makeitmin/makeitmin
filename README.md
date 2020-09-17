@@ -1,6 +1,6 @@
 ### :page_with_curl: CODE ARCHIVE 
 
-It's a Beautiful Day to Save Lines :stuck_out_tongue_closed_eyes:
+Beautiful Day to Save Lines :stuck_out_tongue_closed_eyes:
 <!--
 **HAII-LAB/HAII-LAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
